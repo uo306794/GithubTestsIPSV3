@@ -21,6 +21,11 @@ public class Clase1 {
 	private void master() {
 		System.out.println("master");
 	}
+<<<<<<< HEAD
 	//Cambio en rebase_branch
 	// Efectuo un cambio en master
+=======
+	
+	//Cambio en rebase_branch
+>>>>>>> branch 'Rebase_Branch' of https://github.com/uo306794/GithubTestsIPSV3.git
 }
