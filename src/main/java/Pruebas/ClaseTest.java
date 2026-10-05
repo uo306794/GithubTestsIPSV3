@@ -9,8 +9,12 @@ public class ClaseTest {
 	private void metodo1() {
 		System.out.println("metodo 1");
 	}
+	
+	private void metodo2() {
+		System.out.println("metodo 1");
+	}
 
 	private void metodoComun() {
-		System.out.println("HOLA");
+		System.out.println("Arreglado");
 	}
 }
