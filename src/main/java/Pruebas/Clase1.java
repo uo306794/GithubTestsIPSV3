@@ -7,7 +7,7 @@ public class Clase1 {
 	}
 	
 	private void metodo1() {
-		System.out.println("metodo 1");
+		System.out.println("metodo 1 cambiado");
 	}
 	
 	private void metodo3() {
