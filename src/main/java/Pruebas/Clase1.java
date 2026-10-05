@@ -17,4 +17,8 @@ public class Clase1 {
 	private void metodo3() {
 		System.out.println("CAMBIO 3 SOLUCIONADO");
 	}
+	
+	private void master() {
+		System.out.println("master");
+	}
 }
