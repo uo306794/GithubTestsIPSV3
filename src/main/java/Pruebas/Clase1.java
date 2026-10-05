@@ -21,4 +21,6 @@ public class Clase1 {
 	private void master() {
 		System.out.println("master");
 	}
+	
+	// Efectuo un cambio en master
 }
