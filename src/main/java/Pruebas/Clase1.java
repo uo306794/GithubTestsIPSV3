@@ -10,7 +10,11 @@ public class Clase1 {
 		System.out.println("metodo 1 cambiado");
 	}
 	
+	private void metodo2() {
+		System.out.println("metodo 2");
+	}
+	
 	private void metodo3() {
-		System.out.println("Hola");
+		System.out.println("CAMBIO 3 SOLUCIONADO");
 	}
 }
