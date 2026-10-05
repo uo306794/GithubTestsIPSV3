@@ -5,4 +5,12 @@ public class ClaseTest {
 	private void test() {
 		System.out.println("Hola");
 	}
+	
+	private void metodo2() {
+		System.out.println("metodo 1");
+	}
+
+	private void metodoComun() {
+		System.out.println("ADIOS");
+	}
 }
